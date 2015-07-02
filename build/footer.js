@@ -1,0 +1,1 @@
+F.use("crowd",function(o){console.log(o.getname()),o.setname("Randolph.Guo")});

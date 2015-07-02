@@ -1,0 +1,1 @@
+F.modules("sidebar",function(r,e){var o=r("router");e.router=o});

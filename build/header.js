@@ -1,0 +1,1 @@
+F.modules("router",function(t,o){var r=function(){};return r.prototype.switchReg=function(){},o.router=r});
